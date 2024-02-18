@@ -2,7 +2,7 @@
 
 Minimal piano sound module/expander with dynamics based on Arduino and WAV Trigger
 
-![](https://sandrolabbate.com/media/2018_coda_close-1200.jpg)
+![](https://www.sandrolabbate.com/wp-content/uploads/2023/11/2018_coda_close.jpg) 
 <br>
 *© 2018 [Sandro L'Abbate](https://www.sandrolabbate.com "Sandro L'Abbate")*
 
