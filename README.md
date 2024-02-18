@@ -75,5 +75,3 @@ https://github.com/robertsonics/WAV-Trigger-Arduino-Serial-Library
 ------------
 
 ### [Video demonstration](https://youtu.be/3IshDsRlHGw "Video demonstration")
-
-### [Coffee?](https://ko-fi.com/sandrolab "Coffee?")
